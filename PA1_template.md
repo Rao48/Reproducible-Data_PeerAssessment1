@@ -199,6 +199,7 @@ data=t5, type = 'l',
 print (p) 
 ```
 
+
 ### Observed outcome:
 Yes, there are differences in activity patterns bewteen weedays and weekends.The plot indicates that the person is more active on the weekend days.
 
